@@ -7,6 +7,9 @@ yarn-error.log*
 # Audit results
 audit-results.json
 
+# Test files (for audit testing)
+src/test/
+
 # Temporary files
 *.tmp
 *.log
