@@ -1,0 +1,21 @@
+{
+  "name": "files-org-shop-audit",
+  "version": "1.0.0",
+  "description": "Audit agent for Organization and Shop scoping validation",
+  "main": "scripts/audit-org-shop-scoping.js",
+  "scripts": {
+    "audit": "node scripts/audit-org-shop-scoping.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "audit",
+    "security",
+    "organization",
+    "shop",
+    "scoping"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
